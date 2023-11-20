@@ -1,0 +1,1 @@
+copy Concept2Plugin\x64\Debug\Concept2Plugin.dll RowingSimulator\Assets\Plugin\Concept2Plugin.dll || Pause
